@@ -1,0 +1,40 @@
+Git vereion 
+git help confige 
+cd test 
+git init 
+
+git status 
+git add test .txt 
+git commit-m name.txt
+git config -- global user.name github
+ git remote add origin https://github.com/RahulJaiswar4/Test-demo-.git
+git push origin master
+
+
+
+
+Git init 
+
+mkdir test 
+
+test named folder  open the file   make demo test file  
+
+
+
+
+Aim : To understand version control system \ source code managment , intsal git , and crete a github account 
+
+
+theory 
+waht is git 
+vsc
+download and instaltion of git     ....ss of sheel 
+basci commands wuth ss 
+
+ss of local respostory of demo test 
+SS CREATING GITHUB ACC and remote repostory 
+
+Push the file ...demo test file 
+
+
+conclusion 
